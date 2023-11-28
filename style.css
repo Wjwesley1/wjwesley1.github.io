@@ -50,7 +50,7 @@ a{
     width: 100%;
     height: 36px;
     position:absolute;
-    top: 610px;
+    top: 95%;
 }
 .rodapé{
     display:flex;
@@ -58,8 +58,8 @@ a{
     justify-content:center;
     align-items: center;
     gap: 100px;
-    top: 613px;
-    left: 450px;
+    top: 95%;
+    left: 35%;
     position: absolute;
     font-size: 24px;    
 }
